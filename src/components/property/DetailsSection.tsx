@@ -1,0 +1,74 @@
+import React from 'react';
+import { useLanguage } from '@/contexts/LanguageContext';
+import { useScrollAnimation } from '@/hooks/useScrollAnimation';
+import { propertyConfig } from '@/config/property';
+import { Home, BedDouble, Bath, Car, DollarSign } from 'lucide-react';
+
+const DetailsSection: React.FC = () => {
+  const { t } = useLanguage();
+  const { ref, isVisible } = useScrollAnimation();
+
+  const details = [
+    { 
+      icon: DollarSign, 
+      label: t.details.price, 
+      value: propertyConfig.price 
+    },
+    { 
+      icon: Home, 
+      label: t.details.area, 
+      value: `${propertyConfig.area} ${t.details.sqm}` 
+    },
+    { 
+      icon: BedDouble, 
+      label: t.details.bedrooms, 
+      value: propertyConfig.bedrooms.toString() 
+    },
+    { 
+      icon: Bath, 
+      label: t.details.bathrooms, 
+      value: propertyConfig.bathrooms.toString() 
+    },
+    { 
+      icon: Car, 
+      label: t.details.parking, 
+      value: propertyConfig.parking.toString() 
+    },
+  ];
+
+  return (
+    <section 
+      id="details" 
+      ref={ref as React.RefObject<HTMLElement>}
+      className="section-padding bg-secondary"
+    >
+      <div className="container-wide">
+        <h2 
+          className={`heading-primary mb-16 transition-all duration-1000 ${
+            isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-12'
+          }`}
+        >
+          {t.details.title}
+        </h2>
+
+        <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-8">
+          {details.map((detail, index) => (
+            <div
+              key={detail.label}
+              className={`flex flex-col items-start transition-all duration-700 ${
+                isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-8'
+              }`}
+              style={{ transitionDelay: `${index * 100}ms` }}
+            >
+              <detail.icon className="w-6 h-6 text-muted-foreground mb-4" />
+              <span className="body-small mb-2">{detail.label}</span>
+              <span className="heading-secondary">{detail.value}</span>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+  );
+};
+
+export default DetailsSection;

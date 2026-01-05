@@ -1,0 +1,70 @@
+{
+  "nav": {
+    "about": "Sobre",
+    "details": "Detalhes",
+    "gallery": "Galeria",
+    "location": "Localização",
+    "contact": "Contato"
+  },
+  "hero": {
+    "title": "Residência Contemporânea",
+    "subtitle": "Uma obra arquitetônica única em localização privilegiada",
+    "cta": "Agendar Visita",
+    "ctaSecondary": "Falar no WhatsApp"
+  },
+  "about": {
+    "title": "Sobre o Imóvel",
+    "description": "Esta residência exclusiva combina arquitetura contemporânea com acabamentos de alto padrão. Projetada para oferecer conforto absoluto e integração com a natureza.",
+    "longDescription": "Cada detalhe foi pensado para proporcionar uma experiência de moradia excepcional. Amplos espaços de convivência, iluminação natural abundante e materiais nobres que conferem sofisticação e durabilidade. A planta inteligente permite múltiplas configurações, adaptando-se ao seu estilo de vida."
+  },
+  "details": {
+    "title": "Características",
+    "price": "Preço",
+    "area": "Área",
+    "bedrooms": "Quartos",
+    "bathrooms": "Banheiros",
+    "parking": "Vagas",
+    "sqm": "m²"
+  },
+  "gallery": {
+    "title": "Galeria"
+  },
+  "beforeAfter": {
+    "title": "Transformação",
+    "before": "Antes",
+    "after": "Depois"
+  },
+  "video": {
+    "title": "Tour Virtual"
+  },
+  "location": {
+    "title": "Localização",
+    "description": "Situada em uma das áreas mais valorizadas da cidade, com fácil acesso a serviços, comércio e lazer.",
+    "highlights": {
+      "title": "Pontos de Interesse",
+      "items": [
+        "5 min do metrô",
+        "Parque a 200m",
+        "Escolas renomadas",
+        "Centro comercial próximo"
+      ]
+    }
+  },
+  "contact": {
+    "title": "Interessado?",
+    "subtitle": "Entre em contato para agendar uma visita exclusiva",
+    "form": {
+      "name": "Nome",
+      "email": "E-mail",
+      "phone": "Telefone",
+      "message": "Mensagem",
+      "submit": "Enviar Mensagem"
+    },
+    "whatsapp": "WhatsApp",
+    "call": "Ligar Agora",
+    "schedule": "Agendar Visita"
+  },
+  "footer": {
+    "rights": "Todos os direitos reservados"
+  }
+}

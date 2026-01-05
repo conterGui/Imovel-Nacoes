@@ -1,0 +1,70 @@
+{
+  "nav": {
+    "about": "About",
+    "details": "Details",
+    "gallery": "Gallery",
+    "location": "Location",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Contemporary Residence",
+    "subtitle": "A unique architectural masterpiece in a prime location",
+    "cta": "Schedule Visit",
+    "ctaSecondary": "Chat on WhatsApp"
+  },
+  "about": {
+    "title": "About the Property",
+    "description": "This exclusive residence combines contemporary architecture with high-end finishes. Designed to offer absolute comfort and integration with nature.",
+    "longDescription": "Every detail has been carefully considered to provide an exceptional living experience. Spacious living areas, abundant natural light, and noble materials that convey sophistication and durability. The intelligent floor plan allows multiple configurations, adapting to your lifestyle."
+  },
+  "details": {
+    "title": "Features",
+    "price": "Price",
+    "area": "Area",
+    "bedrooms": "Bedrooms",
+    "bathrooms": "Bathrooms",
+    "parking": "Parking",
+    "sqm": "sqm"
+  },
+  "gallery": {
+    "title": "Gallery"
+  },
+  "beforeAfter": {
+    "title": "Transformation",
+    "before": "Before",
+    "after": "After"
+  },
+  "video": {
+    "title": "Virtual Tour"
+  },
+  "location": {
+    "title": "Location",
+    "description": "Located in one of the most valued areas of the city, with easy access to services, commerce, and leisure.",
+    "highlights": {
+      "title": "Points of Interest",
+      "items": [
+        "5 min from subway",
+        "Park 200m away",
+        "Renowned schools",
+        "Shopping center nearby"
+      ]
+    }
+  },
+  "contact": {
+    "title": "Interested?",
+    "subtitle": "Get in touch to schedule an exclusive visit",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "message": "Message",
+      "submit": "Send Message"
+    },
+    "whatsapp": "WhatsApp",
+    "call": "Call Now",
+    "schedule": "Schedule Visit"
+  },
+  "footer": {
+    "rights": "All rights reserved"
+  }
+}
