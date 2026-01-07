@@ -4,11 +4,11 @@
     "details": "Detalhes",
     "gallery": "Galeria",
     "location": "Localização",
-    "contact": "Contato"
+    "contact": "Contacto"
   },
 "hero": {
     "title": "Residência Contemporânea",
-    "subtitle": "Uma obra arquitetônica única em localização privilegiada",
+    "subtitle": "Uma obra arquitetónica única em localização privilegiada",
     "cta": "Ligar para Agendar",
     "ctaSecondary": "Falar no WhatsApp"
   },
@@ -23,12 +23,12 @@
     "area": "Área Útil",
     "totalArea": "Área Bruta",
     "yearsBuilt": "Ano de Construção",
-    "lot": "Area Terreno",
+    "lot": "Área de Terreno",
     "condition": "Condição",
-    "energyRating": "Certificado Energética",
+    "energyRating": "Certificado Energético",
     "bedrooms": "Quartos",
-    "bathrooms": "Banheiros",
-    "parking": "Vagas",
+    "bathrooms": "Casas de Banho",
+    "parking": "Estacionamento",
     "sqm": "m²"
   },
   "gallery": {
@@ -50,11 +50,11 @@
   },
   "location": {
     "title": "Localização",
-    "description": "Situada em uma das áreas mais valorizadas da cidade, com fácil acesso a serviços, comércio e lazer.",
+    "description": "Situada em uma das zonas mais valorizadas da cidade, com fácil acesso a serviços, comércio e lazer.",
     "highlights": {
       "title": "Pontos de Interesse",
       "items": [
-        "5 min do metrô",
+        "5 min do metro",
         "Parque a 200m",
         "Escolas renomadas",
         "Centro comercial próximo"
