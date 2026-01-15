@@ -57,11 +57,6 @@ const DetailsSection: React.FC = () => {
       value: `${propertyConfig.totalArea} ${t.details.sqm}`,
     },
     {
-      icon: SquareDashed,
-      label: t.details.lot,
-      value: `${propertyConfig.lotSize} ${t.details.sqm}`,
-    },
-    {
       icon: BrickWall,
       label: t.details.condition,
       value: propertyConfig.condition,

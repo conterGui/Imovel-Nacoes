@@ -7,8 +7,8 @@
     "contact": "Contacto"
   },
 "hero": {
-    "title": "Moradia em Mafra",
-    "subtitle": "4 Quartos • 3 Casas de Banho • 200 m² Úteis",
+    "title": "Moradia Parque das Nações",
+    "subtitle": "3 Quartos • 2 Casas de Banho • 125.7 m² Área Útil",
     "cta": "Ligar para Agendar",
     "ctaSecondary": "Falar no WhatsApp"
   },
@@ -16,8 +16,8 @@
 
   "about": {
     "title": "Sobre o Imóvel",
-    "description": "Localizada na Chança, no Sobral da Abelheira.\nEsta agradável moradia de 4 assoalhadas com uma área bruta de construção de 175 m2, está inserida num substantivo lote de terreno de 971 m2.",
-"longDescription": "Moradia de 4 quartos em Mafra com 175 m² de construção, inserida num terreno de 971 m².\nDestaque para a sala de 28 m² com lareira, cozinha de 16,5 m² com despensa, suite de 14,5 m² e quartos com roupeiros.\nToda a casa com aquecimento central, possibilidade de aproveitamento de sótão e equipada com bomba de calor.\n\nExterior com piscina de água salgada (10x4 m), garagem de 70 m², anexo T1 com AC, kitchenette e casa de banho completa, churrasqueira, forno tradicional e casotas para cães.\nTerreno com árvores de fruto e plantas decorativas.\n\nLocalizada numa zona tranquila, rodeada de natureza, perto das praias da Ericeira e com fácil acesso a Lisboa e Mafra.\nConstruída em 2003 com materiais de qualidade, oferece deslumbrante vista sobre a Tapada de Mafra e a experiência de viver no campo com proximidade à cidade."
+    "description": "Descubra este apartamento T3 renovado em 2025, localizado no Parque das Nações, Lisboa.",
+"longDescription": "Com 172 m² de área total (143 m² de área bruta e 29 m² de área dependente), o imóvel destaca-se pela excelente luminosidade natural, tranquilidade da zona e envolvente com espaços verdes de lazer.\nO apartamento conta com sala ampla de estar e jantar, cozinha totalmente equipada com eletrodomésticos modernos, três quartos, incluindo uma suíte, e duas casas de banho.\nDispõe ainda de aquecimento central e acabamentos de qualidade, sendo ideal para famílias ou para quem valoriza conforto e qualidade de vida.\nSituado numa localização privilegiada, próximo de transportes públicos, comércio, serviços e zonas verdes, oferece acesso rápido aos principais pontos da cidade.\nAgende já a sua visita e descubra o seu novo lar no Parque das Nações."
   },
   "details": {
     "title": "Características",
@@ -45,7 +45,10 @@
         "kitchen": "Cozinha",
         "bedroom": "Quarto Principal",
         "bathroom": "Casa de Banho",
-        "exterior": "Exterior"
+        "exterior": "Exterior",
+        "garage": "Garagem",
+        "office": "Escritório",
+        "dining": "Sala de Jantar"
       }
   },
   "video": {
@@ -57,11 +60,11 @@
     "highlights": {
       "title": "Pontos de Interesse",
       "items": [
-        "20 minutos da A8",
-        "44 minutos de Lisboa por carro (A21, A8)",
-        "16 minutos da Ericeira",
-        "8 minutos da Tapada de Mafra",
-        "16 minutos do Convento de Mafra"
+        "15 minutos do Parque das Nações",
+        "22 minutos do Oceanário de Lisboa",
+        "20 minutos do Centro Comercial Vasco da Gama",
+        "18 minutos da Estação do Oriente",
+        "9 minutos do Jardim do Cabeço de Montachique"
       ]
     },
     "seeMap": "Ver no Google Maps"

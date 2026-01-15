@@ -31,13 +31,6 @@ export const propertyConfig = {
   mapCenter: { lat: 38.779944, lng: -9.095222 },
 
 
-  
-  // Pontos de interesse (para o mapa)
-  pointsOfInterest: [
-    { name: "Loures Shopping", distance: "0 min" },
-    { name: "Metro Odivelas", distance: "10 min" },
-    { name: "Hospital Beatriz Ângelo", distance: "5 min" },
-  ],
 
   // Agente imobiliário
   seller:{

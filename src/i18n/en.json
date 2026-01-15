@@ -14,8 +14,8 @@
   },
   "about": {
     "title": "About the Property",
-    "description": "Located in Chança, in Sobral da Abelheira.\nThis charming 4-room house with a gross construction area of 175 m2 is set on a substantial plot of 971 m2.",
-    "longDescription": "4-bedroom house in Mafra with 175 m² of construction on a 971 m² plot.\nHighlights include a 28 m² living room with fireplace, 16.5 m² kitchen with pantry, 14.5 m² suite, and bedrooms with built-in wardrobes.\nThe entire house has central heating, attic potential, and is equipped with a heat pump.\n\nExterior features a 10x4 m saltwater swimming pool, 70 m² garage, T1 annex with AC, kitchenette, and full bathroom, barbecue, traditional oven, and dog kennels.\nThe property also includes fruit trees and decorative plants.\n\nLocated in a quiet area surrounded by nature, close to the beaches of Ericeira, with easy access to Lisbon and Mafra.\nBuilt in 2003 with high-quality materials, it offers stunning views over Tapada de Mafra and the pleasure of countryside living while remaining close to the city."
+    "description": "Discover this T3 apartment renovated in 2025, located in Parque das Nações, Lisbon.",
+    "longDescription": "With a total area of 172 m² (143 m² of gross area and 29 m² of dependent area), the property stands out for its excellent natural light, peaceful surroundings, and nearby green leisure areas.\nThe apartment features a spacious living and dining room, a fully equipped kitchen with modern appliances, three bedrooms including a suite, and two bathrooms.\nIt also offers central heating and high-quality finishes, making it ideal for families or for those seeking comfort and quality of life.\nSet in a prime location, close to public transport, shops, services, and green areas, it provides easy access to the main areas of the city.\nSchedule your visit today and discover your new home in Parque das Nações."
 
   },
   "details": {
@@ -43,7 +43,11 @@
         "bedroom": "Bedroom",
         "bathroom": "Bathroom",
         "livingRoom": "Living Room",
-        "kitchen": "Kitchen"
+        "kitchen": "Kitchen",
+        "exterior": "Exterior",
+        "garage": "Garage",
+        "office": "Office",
+        "dining": "Dining Room"
       }
   },
   "video": {
@@ -55,11 +59,11 @@
     "highlights": {
       "title": "Points of Interest",
       "items": [
-      "20 minutes from the A8 motorway",
-      "44 minutes from Lisbon by car (A21, A8)",
-      "16 minutes from Ericeira",
-      "8 minutes from Tapada de Mafra",
-      "16 minutes from the Convent of Mafra"
+      "15 minutes from Parque das Nações",
+      "22 minutes from Lisbon Oceanarium",
+      "20 minutes from Vasco da Gama Shopping Center",
+      "18 minutes from Oriente Station",
+      "9 minutes from Cabeço de Montachique Garden"
     ]
     },
     "seeMap": "See on Google Maps"

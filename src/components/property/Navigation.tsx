@@ -58,7 +58,7 @@ const Navigation: React.FC = () => {
               isScrolled ? "text-foreground" : "text-white"
             }`}
           >
-            <span className="text-primary">IMÓVEL</span>
+            <span className="text-primary">Sandra Semedo</span>
           </a>
 
           {/* Right side: Language + Hamburger */}
